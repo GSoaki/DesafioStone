@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\TesteElastic\\TesteElastic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Soaki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Soaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj": {
+                "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Soaki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Soaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj": {
+                "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj",
+        "packagesPath": "C:\\Users\\Soaki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Soaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\TesteElastic\\TesteElastic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\TesteElastic\\TesteElastic.csproj",
+        "projectName": "TesteElastic",
+        "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\TesteElastic\\TesteElastic.csproj",
+        "packagesPath": "C:\\Users\\Soaki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\TesteElastic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Soaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj": {
+                "projectPath": "C:\\Users\\Soaki\\source\\repos\\TesteStoneAPI\\Models\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

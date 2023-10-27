@@ -1,0 +1,13 @@
+C:\app\build\DAL.deps.json
+C:\app\build\DAL.dll
+C:\app\build\DAL.pdb
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.csproj.CopyComplete
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.dll
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\refint\DAL.dll
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\DAL.pdb
+C:\Users\Soaki\source\repos\testestone\DAL\obj\Release\net5.0\ref\DAL.dll

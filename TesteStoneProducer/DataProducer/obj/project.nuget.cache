@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EO0WBDbpm/pPe7xUvSTVZmlpYdzYfOHsOEiPVllNqcl0XlQAxUylN8aYKdFO7IKf5AJuS85dzQkm36Yq3CK+tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Soaki\\source\\repos\\TesteStone\\DataProducer\\DataProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soaki\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Soaki\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Soaki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Soaki\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Soaki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

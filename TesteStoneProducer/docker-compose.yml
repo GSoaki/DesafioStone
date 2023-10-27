@@ -1,0 +1,16 @@
+﻿version: '3'
+services:
+  kafka:
+    image: confluentinc/cp-kafka:latest
+    environment:
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092
+    ports:
+      - "9093:9093"
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.10.0
+    ports:
+      - "9201:9201"
+    environment:
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true

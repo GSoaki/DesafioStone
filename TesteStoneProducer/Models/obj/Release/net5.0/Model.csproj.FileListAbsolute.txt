@@ -1,0 +1,12 @@
+C:\app\build\Model.deps.json
+C:\app\build\Model.dll
+C:\app\build\Model.pdb
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\Model.AssemblyInfo.cs
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\Model.dll
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\refint\Model.dll
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\Model.pdb
+C:\Users\Soaki\source\repos\testestone\Models\obj\Release\net5.0\ref\Model.dll

@@ -1,0 +1,15 @@
+C:\Users\Soaki\source\repos\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Soaki\source\repos\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Soaki\source\repos\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Soaki\source\repos\DAL\bin\Debug\net5.0\Model.dll
+C:\Users\Soaki\source\repos\DAL\bin\Debug\net5.0\Model.pdb
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Soaki\source\repos\DAL\obj\Debug\net5.0\ref\DAL.dll

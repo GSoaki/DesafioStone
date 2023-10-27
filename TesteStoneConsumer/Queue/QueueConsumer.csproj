@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Elasticsearch.Net" Version="7.17.5" />
+		<PackageReference Include="Confluent.Kafka" Version="2.3.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="NEST" Version="7.17.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\BLL\BLL.csproj" />
+		<ProjectReference Include="..\DAL\DAL.csproj" />
+		<ProjectReference Include="..\Models\Model.csproj" />
+	</ItemGroup>
+
+</Project>
